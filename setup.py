@@ -14,9 +14,6 @@ setup(
     url='http://datahub.io/',
     description="A simple command line tool for uploading files to datahub.io",
     long_description = "A simple command line tool for uploading files to datahub.io",
-    install_requires=[
-        "ckanclient==0.10"
-    ],
     extras_require = {
     },
     zip_safe=False,
